@@ -1,0 +1,75 @@
+# jemdoc: {index.html}	
+=Ramki Gummadi
+
+~~~
+{}{img_left}{pic.jpg}{140px}{140px}
+
+*Note: This page is not up to date. I'm currently in Alberta, working on topics in representation learning with Dale Schuurmans. Please use my gmail id gsrk84 to reach me. I'll be an employee at Facebook starting in the Fall.*\n
+
+
+[gummadi-CV.pdf Download CV.]
+~~~
+
+= Papers  {{<font color = "Red"> </font>}}
+
+~~~
+M. Bayati, M. Braverman, R. Gummadi, R. Johari, ``[toupload.pdf {{<font color = "Red"> Analysis of Pay for Performance Models in Healthcare </font>}}]'', Working draft to be uploaded, October 2013. A preliminary version of the results were presented at INFORMS 2013 in Minneapolis.\n
+~~~
+
+~~~
+R. Gummadi, R. Johari, J. Yu, ``[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045842 {{<font color = "Red"> Mean Field Equilibria of Multi Armed Bandit Games</font>}}]'', SSRN Working Draft, April 2013.\n
+[other/mab_ec2012.pptx {{<font color = "green"> Presentation Slides in pptx.</font>}}]\n
+Preliminary versions appeared in /ACM Conference on Electronic Commerce (EC)/, June, 2012, Valencia, Spain and /Allerton Annual Conference on Communications, Control and Computing/, Monticello, IL, October 2012. 
+~~~
+
+~~~
+R. Gummadi, P. Key, A. Proutiere, ``[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2066175 {{<font color = "red">Optimal Bidding Strategies and Equilibria in Repeated Auctions with budget constraints</font>}}]'', SSRN Working Draft, October 2013.\n
+[other/adauctions.pptx {{<font color = "green"> Presentation Slides in pptx.</font>}}]\n
+Preliminary versions appeared in /Allerton Annual Conference on Communications, Control and Computing/, September 2011 and in /Ad Auctions Workshop 2012, Valencia, Spain./
+~~~
+
+~~~
+R. Gummadi, L. Massoulie, R. Sreenivas, ``[papers/phycom.pdf {{<font color = "red"> The Role of Feedback in the choice between routing and coding for wireless unicast </font>}}]'', /Physical Communication, Special Issue on Wireless Network Coding (Elsevier)/, Vol 6, pp. 88-99, 2013.\n
+[other/netcod_pres.pdf {{<font color = "green"> Presentation Slides in pdf.</font>}}]\n
+A preliminary version appeared in /Proceedings of IEEE International Symposium on Network Coding/, June 2010.
+~~~
+
+~~~   
+R. Gummadi, R. Sreenivas, ``[papers/repair.pdf {{<font color = "red"> Erasure Codes with Efficient Repair</font>}}]'',  accepted to the /IEEE Information theory workshop/, 2011.\n
+[other/repair_slides.pptx {{<font color = "green"> Presentation Slides in pptx.</font>}}] \n    
+Note: Paper was not actually presented at the conference due to visa issues.
+~~~
+
+~~~
+R. Gummadi, R. Sreenivas, N. Singh, ``[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5608496 {{<font color = "red"> On Tractable Instances of Modular Supervisory Control</font>}}]'', /IEEE Transactions on Automatic Control/, Vol 56(7), pp. 1621-1635, August 2011.
+~~~
+
+~~~
+R. Gummadi, A. Shokrollahi, R. Sreenivas, ``[papers/side.pdf {{<font color="red">Broadcasting with Side Information Using Fountain Codes</font>}}]'', /Proceedings of IEEE Information Theory Workshop/, pp. 1-5, January 2010. \n
+[other/side_pres.pdf {{<font color = "green"> Presentation Slides in pdf.</font>}}]   
+~~~
+
+~~~
+R. Gummadi, ``[papers/bcontrol.pdf {{<font color="red">Optimal Control of a Broadcasting Server</font>}}]'', /Proceedings of IEEE Conference on Decision and Control (CDC)/, pp. 2634-2639, December, 2009.\n
+[other/bcontrol_pres.pdf {{<font color = "green"> Presentation Slides in pdf.</font>}}]
+~~~
+
+~~~
+R. Gummadi, K. Jung, D. Shah, R. Sreenivas, ``[papers/netcapacity.pdf {{<font color="red">Computing the Capacity Region of a Wireless Network </font>}}]'', /Proceedings of the IEEE International Conference on Computer Communications (INFOCOM)/, pp. 1341-1349, April 2009.\n
+[other/netcapacity_pres.pdf {{<font color = "green"> Presentation Slides in pdf.</font>}}]
+~~~
+
+~~~
+R. Gummadi, R. Sreenivas, ``[papers/relay.pdf {{<font color="red">Relaying a Fountain Code across multiple Nodes</font>}}]'', /Proceedings of IEEE Information Theory Workshop/, pp. 149-153, May, 2008. \n
+[other/relay_pres.pdf {{<font color = "green"> Presentation Slides in pdf.</font>}}] \n
+Also appeared as a poster at /SIGCOMM/, May 2008.
+~~~
+
+~~~
+R. Gummadi, K. Jung, D. Shah, R. Sreenivas, ``[papers/feasiblerate.pdf {{<font color="red">Feasible Rate Allocation in Wireless Networks</font>}}]'', /Proceedings of IEEE International Conference on Computer Communications (INFOCOM)/, pp. 13-18, April 2008.\n
+[other/feasiblerate_pres.pdf {{<font color = "green"> Presentation Slides in pdf.</font>}}] \n
+~~~
+
+
+Link to [http://scholar.google.com/citations?user=2P8IbqoAAAAJ Google scholar profile]. 
+

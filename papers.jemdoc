@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{papers.html}
+\n
+Link to [http://scholar.google.com/citations?user=2P8IbqoAAAAJ google scholar profile] 
+= Publications
+.  "Mean Field Equilibria of Multi-Armed Bandit Problems",\n
+    Ramakrishna Gummadi, [http://www.stanford.edu/~rjohari/ Ramesh Johari] and [http://researcher.ibm.com/view.php?person=ie-jiayuanyu Jia Yuan Yu], \n
+    /To be submitted/ \n
+    [papers/mab.pdf Paper.pdf] 
+.  "Optimal Bidding Strategies and Equilibria in Dynamic Second Price Auctions with Budget Constraints",\n
+    Ramakrishna Gummadi, [http://research.microsoft.com/en-us/people/peterkey/ Peter Key] and [http://www.kth.se/ees/omskolan/organisation/anstallda/sokanstalld/index.php?action=people_polopoly&cmd=extended&peopleid=1120 Alexandre Proutiere], \n
+    One page abstract appeared in /Allerton Annual Conference on Communications, Control and Computing/, 2011, Monticello, IL. (journal version to be submitted) \n
+    [papers/auctions.pdf Paper.pdf] and [other/auctions_pres.pptx Slides.pptx]
+.  "Erasure Codes with Efficient Repair", \n
+    Ramakrishna Gummadi and [http://ise.illinois.edu/research/faculty/sreenivas.html Ramavarapu Sreenivas], \n
+    Preliminary version was accepted to /IEEE Information theory workshop/, 2011 (journal version under preparation). \n
+    [papers/repair.pdf Paper.pdf] and [other/repair_slides.pptx Slides.pptx]	
+.  "On Tractable Instances of Modular Supervisory Control",\n  
+    Ramakrishna Gummadi, [http://csl.illinois.edu/people/graduate-students/nikhil-singh Nikhil Singh] and [http://ise.illinois.edu/research/faculty/sreenivas.html Ramavarapu Sreenivas], \n
+    /IEEE Trans. Automatic Control/, Vol. 56, No. 7, July 2011, 1621-1635.\n
+    [https://netfiles.uiuc.edu/rsree/www/DEDS_files/05608496.pdf Paper.pdf]
+.   "The Role of Feedback in the choice between routing and coding for wireless unicast"\n
+    Ramakrishna Gummadi, [http://www.thlab.net/~lmassoul/ Laurent Massoulie] and [http://ise.illinois.edu/research/faculty/sreenivas.html Ramavarapu Sreenivas]\n
+    Accepted to appear in /Elsevier Physical Communications special issue on network coding and its applications to wireless communications./\n
+    Preliminary version at /IEEE Information Symposium on Network Coding/ (NETCOD) 2010,  Toronto, Canada. \n
+    [papers/phycom.pdf Paper.pdf] and [other/netcod_pres.pdf Slides.pdf]
+.   "Broadcasting With Side Information Using Fountain Codes",\n
+    Ramakrishna Gummadi, [http://people.epfl.ch/amin.shokrollahi Amin Shokrollahi] and [http://ise.illinois.edu/research/faculty/sreenivas.html  Ramavarapu Sreenivas],\n
+    /IEEE Information Theory Workshop/ 2010, Cairo, Egypt.\n
+    [papers/side.pdf Paper.pdf] and [other/side_pres.pdf Slides.pdf]
+.   "Optimal Control of a Broadcast Server",\n
+    Ramakrishna Gummadi,\n
+    /IEEE Conference on Decision and Control/, Dec 2009, Shanghai, China\n
+    [papers/bcontrol.pdf Paper.pdf] and [other/bcontrol_pres.pdf  Slides.pdf]
+.   "Computing Capacity Region of a Wireless Network",\n
+    Ramakrishna Gummadi, [http://web.kaist.ac.kr/~kyomin/ Kyomin Jung], [http://www.mit.edu/~devavrat/ Devavrat Shah] and [https://netfiles.uiuc.edu/rsree/www/Prof._R.S._Sreenivas_%28Main%29.html  Ramavarapu Sreenivas],\n
+    /IEEE International Conference on Computer Communications (INFOCOM)/, April 2009, Rio De Janerio, Brazil. \n
+    [papers/netcapacity.pdf Paper.pdf] and [other/netcapacity_pres.pdf Slides.pdf]\n
+.   "Relaying a Fountain Code across multiple nodes",\n
+    Ramakrishna Gummadi and [https://netfiles.uiuc.edu/rsree/www/Prof._R.S._Sreenivas_%28Main%29.html Ramavarapu Sreenivas],\n
+    /Proceedings of the IEEE Information Theory Workshop/ (ITW), May 2008, Porto, Portugal. \n
+    Also appeared as a poster at SIGCOMM 2008, Seattle, WA\n
+    [papers/relay.pdf Paper.pdf] and [other/relay_pres.pdf Slides.pdf]
+.   "Feasible Rate Allocation in Wireless Networks",\n
+    Ramakrishna Gummadi, [http://web.kaist.ac.kr/~kyomin/ Kyomin Jung], [http://www.mit.edu/~devavrat/  Devavrat Shah] and [https://netfiles.uiuc.edu/rsree/www/Prof._R.S._Sreenivas_%28Main%29.html Ramavarapu Sreenivas],\n
+    /IEEE International Conference on Computer Communications (INFOCOM)/, April 2008, Phoenix AZ, USA.\n
+    [papers/feasiblerate.pdf Paper.pdf] and [other/feasiblerate_pres.pdf Slides.pdf]
+.   "A New Search for Optimal Binary Arrays with Minimum Peak Side Lobe Levels",\n
+    Ramakrishna Gummadi and [http://www.ee.ust.hk/~eewhmow/ Wai Ho Mow],
+    \Sequences and Their Applications, Lecture Notes in Computer Science\,\n
+     edited by Tor Helleseth, Dilip Sarwate, et al., Springer-Verlag, 2005, pp. 355-360\n
+    [papers/seta.ps Paper.ps] and [other/seta.ppt  Slides.ppt]
+
+== Ph.D. Thesis
+   "Coding and Scheduling in Networks for Erasures and Broadcast", Ph.D. Thesis, Department of Electrical and Computer Engineering, University of Illinois at Urbana Champaign, July 2011.\n
+   [papers/thesis.pdf Thesis.pdf] and [other/defense.pptx Defense presentation.pptx]\n
+   (Includes portions of results in publications 2,3,5,6,7)
+   
+ 
+   
