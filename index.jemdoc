@@ -4,16 +4,25 @@
 ~~~
 {}{img_left}{pic.jpg}{140px}{140px}
 
-*Note: This page is not up to date. I'm currently in Alberta, working on topics in representation learning with Dale Schuurmans. Please use my gmail id gsrk84 to reach me. I'll be an employee at Facebook starting in the Fall.*\n
+Welcome to my research homepage. \n
+
+*Bio*: I got my Ph.D. in EE from the University of Illinois in December 2011, where I worked primarily on rateless erasure codes for communication networks. I was subsequently a postdoc at Stanford until Spring 2014 where I worked on markets and mechanism design. I spent the summer of 2014 as a member of the RLAI lab in Alberta, where I worked on topics in representation learning. I am now employed by Facebook as a data scientist, where I currently work on the ad auction delivery systems. \n
+
+*Interests*: AI, statistical inference, mechanism design and markets. 
 
 
-[gummadi-CV.pdf Download CV.]
+[gummadi-CV.pdf Download CV.]({{<font color = "Red"> last updated: 02/14 </font>}})
 ~~~
 
 = Papers  {{<font color = "Red"> </font>}}
 
 ~~~
-M. Bayati, M. Braverman, R. Gummadi, R. Johari, ``[toupload.pdf {{<font color = "Red"> Analysis of Pay for Performance Models in Healthcare </font>}}]'', Working draft to be uploaded, October 2013. A preliminary version of the results were presented at INFORMS 2013 in Minneapolis.\n
+R. Gummadi, ``[toupload.pdf {{<font color = "Red"> Resampled Belief Networks for Variational Inference </font>}}]''. Extended abstract to appear at the NIPS 2014 workshop on Advances in Variational Inference.\n
+~~~
+
+
+~~~
+M. Bayati, M. Braverman, R. Gummadi, R. Johari, ``[toupload.pdf {{<font color = "Red"> Analysis of Pay for Performance Models in Healthcare </font>}}]''. A preliminary version of the results were presented at INFORMS 2013 in Minneapolis.\n
 ~~~
 
 ~~~
