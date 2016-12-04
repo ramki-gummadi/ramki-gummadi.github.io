@@ -2,11 +2,9 @@
 =Ramki Gummadi
 
 ~~~
-{}{img_left}{pic1.jpg}{120px}{120px}
+{}{img_left}{ramki.jpg}{120px}{120px}
 
-I am currently a software engineer at Facebook working in the marketplace ranking team. 
-
-I received my Ph.D. in EE from the U of Illinois in December 2011 with a dissertation on rateless erasure codes for communication networks. I was then a postdoc at Stanford until spring 2014, working on multiarmed bandits and mechanism design. I spent summer 2014 working on topics in representation learning in the RLAI lab at U of Alberta. Since October 2014, I have been a data scientist/software engineer at Facebook. \n
+I recently joined Vicarious as a senior researcher. Prior to this, I spent two years at Facebook, where I was a data scientist/software engineer. I received my Ph.D. in EE from the U of Illinois in December 2011 with a dissertation on rateless erasure codes for communication networks. I was then a postdoc at Stanford until spring 2014, working on multiarmed bandits and mechanism design in Ramesh Johari's group. From Spring to Fall of 2014, I was a postdoc at the U of Alberta hosted by Dale Schuurmans. \n
 
 ~~~
 
@@ -14,15 +12,16 @@ I received my Ph.D. in EE from the U of Illinois in December 2011 with a dissert
 
 ~~~
 R. Gummadi, ``[papers/nips14w.pdf {{<font color = "Red"> Resampled Belief Networks for Variational Inference </font>}}]''. Extended abstract appeared at the NIPS 2014 workshop on Advances in Variational Inference. \n
+[https://docs.google.com/presentation/d/1Gmz5XtO7NLrrQFuNZ3Rq81OMULd4-oMlIFgPvPZpM3g/edit?usp=sharing {{<font color = "Green"> Presentation slides}}]
 ~~~
 
 
 ~~~
-H. Bastani, M. Bayati, M. Braverman, R. Gummadi, R. Johari, ``[http://ssrn.com/abstract=2839143 {{<font color = "Red"> Analysis of Pay for Performance Medicare Contracts </font>}}]'', under review,  Management Science, 2016. A preliminary version of the results were presented at INFORMS 2013 in Minneapolis.\n
+H. Bastani, M. Bayati, M. Braverman, R. Gummadi, R. Johari, ``[http://ssrn.com/abstract=2839143 {{<font color = "Red"> Analysis of Pay for Performance Medicare Contracts </font>}}]'', SSRN working paper, 2016.\n
 ~~~
 
 ~~~
-R. Gummadi, R. Johari, S. Schmit,  J. Yu, ``[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045842 {{<font color = "Red"> Mean Field Analysis of Multi Armed Bandit Games</font>}}]'', SSRN Working Paper, 2016.\n
+R. Gummadi, R. Johari, S. Schmit,  J. Yu, ``[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045842 {{<font color = "Red"> Mean Field Analysis of Multi Armed Bandit Games</font>}}]'', under review with Mathematics of Operations Research, Oct 2016.\n
 [other/mab_ec2012.pptx {{<font color = "green"> Presentation Slides in pptx.</font>}}]\n
 Preliminary versions appeared in /ACM Conference on Electronic Commerce (EC)/, June, 2012, Valencia, Spain and /Allerton Annual Conference on Communications, Control and Computing/, Monticello, IL, October 2012. 
 ~~~
