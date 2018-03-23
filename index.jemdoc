@@ -15,7 +15,8 @@ Before joining google, I was a senior researcher at Vicarious, an AI research st
 = Papers  {{<font color = "Red"> </font>}}
 
 ~~~
-A. Grover\*, R. Gummadi\*, M. Lazaro-Gredilla, D. Schuurmans, S. Ermon, ``[papers/icmlpadl.pdf {{<font color = "Red"> Resampled Proposal Distributions for Stochastic Variational Inference and Learning</font>}}]''. Appeared at the [http://padl.ws/ {{ICML 2017 workshop on Principled Approaches to Deep Learning}}], and the [https://sites.google.com/view/implicitmodels/ {{ICML 2017 workshop on Implicit Models}}]. Conference version to appear at the International Conference on Artificial Intelligence and Statistics (AISTATS), 2018. \n
+A. Grover\*, R. Gummadi\*, M. Lazaro-Gredilla, D. Schuurmans, S. Ermon, ``[papers/icmlpadl.pdf {{<font color = "Red"> Resampled Proposal Distributions for Stochastic Variational Inference and Learning</font>}}]''. Appeared at the [http://padl.ws/ {{ICML 2017 workshop on Principled Approaches to Deep Learning}}], and the [https://sites.google.com/view/implicitmodels/ {{ICML 2017 workshop on Implicit Models}}].
+[papers/aistats18.pdf {{<font color = "Red"> Conference version</font>}}] to appear at the International Conference on Artificial Intelligence and Statistics (AISTATS), 2018. \n
 \* indicates joint primary authorship.
 ~~~
 
